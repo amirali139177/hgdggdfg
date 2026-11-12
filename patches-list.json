@@ -51,7 +51,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "9.2.0.26",
+              "version": "9.1.80.222",
               "versionCodes": {
                 "ARM64_V8A": 145767611
               },
